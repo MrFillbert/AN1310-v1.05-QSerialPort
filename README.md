@@ -1,5 +1,5 @@
 # AN1310-v1.05-QSerialPort 
-# Requarements
+# Requirements
 # QT5, W7 and more
 
 Hi All!
