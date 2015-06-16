@@ -67,7 +67,7 @@ int main(int argc, char *argv[])
     {
         QString arg = args[i].toLower();
 
-        if(arg.length() >= 2 && (arg[0] == '/' || arg[0] == '-'))
+        if(arg.length() >= 2 && arg[0] == '-')
         {
             switch(arg[1].toLatin1())
             {
